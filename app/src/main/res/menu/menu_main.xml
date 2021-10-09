@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/compose"
+        android:icon="@drawable/education_icon_quill_drawing_a_line_icon_feather_icon_png_favpng_uup9expuwbzhpugpvnqmc7c9r"
+        android:title="Compose"
+        app:showAsAction="always" />
+</menu>
